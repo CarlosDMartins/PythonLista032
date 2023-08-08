@@ -3,6 +3,6 @@ valor com o acréscimo dos 10% da gorjeta do garçom'''
 
 conta = float(input("Coloque o valor da conta:"))
 
-acr = conta + conta / 100 * 10
+acrr = conta + conta / 100 * 10
 
-print("Valor total a se pagar:", acr)
+print("Valor total a se pagar:", acrr)
